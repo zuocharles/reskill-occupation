@@ -1,48 +1,40 @@
 /**
  * Job Descriptions Data
  *
- * Static placeholder JD data grouped by occupation slug.
- * Replace URLs and entries with real job postings when available.
+ * Real JD data grouped by occupation slug.
  */
 
-export const DISCORD_INVITE_URL = 'https://discord.gg/placeholder-invite'
+export const DISCORD_INVITE_URL = 'https://discord.gg/54W3H4N4jk'
 
 export const JOB_DESCRIPTIONS = {
   'software-engineer': [
     {
       id: 'se-1',
-      title: 'Senior Software Engineer - AI Platform',
-      company: 'Stripe',
-      url: 'https://example.com/job/se-1',
-      aiSkills: ['Prompt Engineering', 'AI Code Review', 'LLM Integration'],
+      title: 'Software Developer L3',
+      company: 'Ncontracts',
+      url: 'https://to.indeed.com/aan9s2vdblg7',
+      aiSkills: ['AI-Assisted Coding Tools', 'Modern Development Practices'],
     },
     {
       id: 'se-2',
-      title: 'Full Stack Developer - AI Products',
-      company: 'Vercel',
-      url: 'https://example.com/job/se-2',
-      aiSkills: ['AI Workflow Design', 'Copilot Integration', 'RAG Systems'],
+      title: 'Business Applications Developer',
+      company: 'Spinelli Kilcollin',
+      url: 'https://to.indeed.com/aak68gvr6hjt',
+      aiSkills: ['AI/Automation Tools', 'RAG-Based Solutions', 'ChatGPT Enterprise APIs'],
     },
     {
       id: 'se-3',
-      title: 'Frontend Engineer - AI Experience',
-      company: 'OpenAI',
-      url: 'https://example.com/job/se-3',
-      aiSkills: ['AI UX Patterns', 'Prompt Chaining', 'Model Evaluation'],
+      title: 'Senior .NET Consultant',
+      company: 'Proactive Logic Consulting',
+      url: 'https://to.indeed.com/aax44dfrpns9',
+      aiSkills: ['Claude Code', 'GitHub Copilot', 'LLM-Accelerated Development'],
     },
     {
       id: 'se-4',
-      title: 'Platform Engineer - ML Infrastructure',
-      company: 'Anthropic',
-      url: 'https://example.com/job/se-4',
-      aiSkills: ['AI Pipeline Design', 'Agent Orchestration', 'Eval Frameworks'],
-    },
-    {
-      id: 'se-5',
-      title: 'Software Engineer - AI Agents',
-      company: 'Google DeepMind',
-      url: 'https://example.com/job/se-5',
-      aiSkills: ['Task Decomposition', 'Tool Use', 'Multi-Agent Systems'],
+      title: 'Director of Engineering',
+      company: 'Tropical Smoothie Cafe',
+      url: 'https://to.indeed.com/aalb6b426rtw',
+      aiSkills: ['AI/LLM Enablement', 'AIOps', 'AI-First Product Features'],
     },
   ],
   'financial-analyst': [
